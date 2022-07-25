@@ -1,1 +1,6 @@
 # my-notes
+## My name is _Monther Al-Tamimi_
+ *_I am 23 years old_*, I graduated from Al al-Bayt University with a major in computer science ,During my study career I worked as an assistant carpenter, I worked on the graduation project "TeleDoc" to book appointments in doctors' clinics
+
+	---
+After reading this article [good programer](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) and from the beginning, you can know that changing is not easy but it is worth the hardship, and every step needs a lot of work without looking at negative opinions, and the best way to learn is to make mistakes, the biggest goal of learning programming is to find better and faster solutions To carry out modern operations and problems, the programmer does not have to stand a certain limit, he must constantly learn and keep pace with the times, the most important things that must always be taken into account is privacy, the inability of the latter to steal or eavesdrop on other customers’ information
